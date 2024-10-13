@@ -1,12 +1,11 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Edwin
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)](https://twitter.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/etjs1106)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwintanjs/)](https://www.linkedin.com/in/edwintanjs/)
 
 ## 🚀 About Me
 
-I'm a **[Your Role]** who loves working with [specific technologies or interests]. I’m passionate about learning new things and tackling challenges through code.
+I'm a Student who loves working with . I’m passionate about learning new things and tackling challenges through code.
 
 - 🔭 I’m currently working on **[Your Current Project]**
 - 🌱 I’m currently learning **[Current Learning Focus]**
